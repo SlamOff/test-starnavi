@@ -1,0 +1,12 @@
+.statsTitle {
+    margin-top: 0;
+    line-height: 0.75;
+}
+.statsItem {
+    line-height: 30px;
+    border-radius: 5px;
+    background-color: #FBF8E3;
+    border: 1px solid #FBF7E2;
+    padding: 10px;
+    margin-bottom: 10px;
+}

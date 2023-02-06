@@ -1,0 +1,10 @@
+.fieldItem {
+    width: 40px;
+    height: 40px;
+    border: 1px solid #000;
+    background-color: #fff;
+    transition: background-color .25s ease;
+}
+.fieldItemFilled {
+    background-color: #03A8F4;
+}

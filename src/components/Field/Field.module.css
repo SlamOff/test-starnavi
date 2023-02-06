@@ -1,0 +1,8 @@
+.field {
+    margin-top: 15px;
+    width: 202px;
+    display: flex;
+    flex-wrap: wrap;
+    border-collapse: collapse;
+    border: 1px solid #000;
+}

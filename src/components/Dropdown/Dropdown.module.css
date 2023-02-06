@@ -1,0 +1,18 @@
+.button {
+    background-color: #0075D8;
+    color: #fff;
+    height: 30px;
+    width: 87px;
+    border: 0;
+    border-radius: 5px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+.buttonDisabled {
+    background-color: grey;
+    cursor: no-drop;
+}
+.select {
+    height: 30px;
+    width: 100px;
+}
